@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/Tratamento/bin/Debug/net7.0/Tratamento
+/home/gabriel/Desktop/VSProjects/Tratamento/bin/Debug/net7.0/Tratamento.deps.json
+/home/gabriel/Desktop/VSProjects/Tratamento/bin/Debug/net7.0/Tratamento.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/Tratamento/bin/Debug/net7.0/Tratamento.dll
+/home/gabriel/Desktop/VSProjects/Tratamento/bin/Debug/net7.0/Tratamento.pdb
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.dll
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/refint/Tratamento.dll
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.pdb
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/Tratamento.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/Tratamento/obj/Debug/net7.0/ref/Tratamento.dll
